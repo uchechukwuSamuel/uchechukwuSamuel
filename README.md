@@ -27,12 +27,6 @@ Building clean, responsive web experiences using JavaScript and the MERN stack.
 
 ---
 
-### 📫 Reach Out
-
-📧 letuchecreate@gmail.com  
-
----
-
 <!--
 ### 📊 Dev Stats (Live)
 
