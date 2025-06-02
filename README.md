@@ -62,8 +62,9 @@ A lightweight, browser-based tool powered by **IndexedDB + Bootstrap**.
 > _I debug best when Tony Bennett’s playing and snacks are close by._ 🍜
 
 ---
-
+<!--
 ### 👀 Profile Views  
 <p align="center">
   <img src="https://profile-counter.glitch.me/uchechukwuSamuel/count.svg" alt="Profile Views" />
 </p>
+-->
