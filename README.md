@@ -68,3 +68,10 @@ A lightweight, browser-based tool powered by **IndexedDB + Bootstrap**.
   <img src="https://profile-counter.glitch.me/uchechukwuSamuel/count.svg" alt="Profile Views" />
 </p>
 -->
+
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+</p>
+
