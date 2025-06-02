@@ -1,7 +1,8 @@
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Fullstack+Developer+%7C+Creative+Thinker;debugging+&+evolving">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Fullstack+Developer+%7C+Creative+Thinker;debugging+%26+evolving" alt="Typing SVG">
 </p>
+
 
 ---
 
