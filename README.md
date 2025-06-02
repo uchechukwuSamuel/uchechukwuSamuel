@@ -11,23 +11,11 @@ Building clean, responsive web experiences using JavaScript and the MERN stack.
 
 ---
 
-### 🔨 What I’m Up To
-
-🚧 Working on: **Inventory Management System**  
-A lightweight, browser-based tool powered by **IndexedDB + Bootstrap**.  
-[🔗 Check it out](https://github.com/uchechukwuSamuel/inventoryMgt)
-
-> _Just shipping small wins while dreaming up bigger things..._
-
----
-
 ### 🌱 Learning & Growing
 
-- ⚛️ React.js  
 - 🧩 Svelte  
 - 🌱 MongoDB & Express  
 - 🎞️ GSAP for animations  
-- 🧠 Crafting smoother, smarter UX
 
 ---
 
@@ -42,7 +30,6 @@ A lightweight, browser-based tool powered by **IndexedDB + Bootstrap**.
 ### 📫 Reach Out
 
 📧 letuchecreate@gmail.com  
-🌐 [Portfolio — Work in progress](https://underconstruction.com)
 
 ---
 
