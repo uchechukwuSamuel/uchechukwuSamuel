@@ -37,14 +37,14 @@ Building clean, responsive web experiences using JavaScript and the MERN stack.
 </p>
 
 ---
--->
+ 
 
 ### ⚡ Fun Fact
 
 > _I debug best when Tony Bennett’s playing and snacks are close by._ 🍜
 
 ---
-<!--
+ 
 ### 👀 Profile Views  
 <p align="center">
   <img src="https://profile-counter.glitch.me/uchechukwuSamuel/count.svg" alt="Profile Views" />
